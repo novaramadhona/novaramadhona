@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi! I'm Nova 👋
+
+An active student at Universitas Raharja major in Information System and still learning about Web Development.
+
+- 🌱 I’m currently participating in SIB Dicoding Batch 2, with a Front-End Web and Back-End Developer learning package. 
+- 📫 How to reach me : novaramadhona2000@gmail.com
 
 <!--
 **novaramadhona/novaramadhona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
