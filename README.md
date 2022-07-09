@@ -1,8 +1,8 @@
 ## Hi! I'm Nova 👋
 
-An active student at University of Raharja major in Information System and still learn about Web Development.
+An undergraduate student at Raharja University majoring in Information Systems and likes to learn about Web Development.
 
-- 🌱 I’m currently participating in SIB Dicoding Batch 2, with a Front-End Web and Back-End Developer learning package. 
+- 🌱 Certified Independent Study Participants Batch 2 Dicoding 2022 - Front-end and Back-end Web Development Learning Packages. 
 - 📫 How to reach me : novaramadhona2000@gmail.com
 
 <p align="left">
