@@ -6,7 +6,5 @@ An undergraduate student at Raharja University majoring in Information Systems a
 - 📫 How to reach me : novaramadhona2000@gmail.com **or** [LinkedIn](https://www.linkedin.com/in/nova-ramadhona/)
 
 <p align="left">
-<a href="https://github.com/novaramadhona">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=novaramadhona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=novaramadhona&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
