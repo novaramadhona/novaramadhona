@@ -1,6 +1,6 @@
 ## Hi! I'm Nova 👋
 
-An undergraduate student at Raharja University System Information who likes to learn about Web Development.
+A Bachelor of Information Systems at University of Raharja who likes to learn about Web Development.
 
 - 🌱 Certified Independent Study Participants Batch 2 Dicoding 2022 - Front-end and Back-end Web Development Learning Packages. 
 - 📫 How to reach me : novaramadhona2000@gmail.com **or** [LinkedIn](https://www.linkedin.com/in/nova-ramadhona/)
